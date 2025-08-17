@@ -1,2 +1,2 @@
 # Hayrettin-Purcek
-Portfolio
+That is the first website that I developed.
